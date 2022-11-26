@@ -1,0 +1,21 @@
+footer{
+     width: 100%;
+     /*position: absolute;*/
+     left: 0;
+     bottom: 0;
+     color: white;
+}
+.fon{
+     background-image: url("img/textura.jpg");!important;
+     width: 100%;
+     height: auto;
+
+}
+.image1{
+     position: relative;
+     height: 130px !important;
+     width: 100%;
+}
+.image0{
+     width: 100%;
+}
